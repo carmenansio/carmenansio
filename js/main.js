@@ -186,11 +186,11 @@
       $('#homeVideo').YTPlayer();
     }
 
-    /*----------  About: Services  ----------*/
+    /*----------  bio: Services  ----------*/
 
     /* Removes margin bottom from items in the last row depending on the screen size / how many columns the grid has */
     responsiveColumns(
-      ['#about .services-section .single-service', null],
+      ['#bio .services-section .single-service', null],
       [{
           matchMedia: '(max-width: 767.98px)',
           columns: 1,
@@ -206,10 +206,10 @@
       'rc-mb-0'
     );
 
-    /*----------  About: Testimonials  ----------*/
+    /*----------  Bio: Testimonials  ----------*/
 
     var testimonials = tns({
-      container: '#about .testimonials-section .my-slider',
+      container: '#bio .testimonials-section .my-slider',
       items: 2,
       gutter: 30,
       "responsive": {
@@ -232,11 +232,11 @@
       navPosition: 'bottom'
     });
 
-    /*----------  About: Pricing  ----------*/
+    /*----------  Bio: Pricing  ----------*/
 
     /* Removes margin bottom from items in the last row depending on the screen size / how many columns the grid has */
     responsiveColumns(
-      ['#about .pricing-section .single-plan', null],
+      ['#bio .pricing-section .single-plan', null],
       [{
         matchMedia: '(max-width: 991.98px)',
         columns: 1,

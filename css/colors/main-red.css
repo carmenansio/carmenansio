@@ -11,7 +11,7 @@
 /**
  * Bootstrap template
  * Globals
- * About
+ * bio
  * Resume
  * Portfolio
  * Blog
@@ -238,33 +238,33 @@ a:not(.btn):focus {
   background-color: #dc3545;
 }
 
-/*----------  About ligthbox  ----------*/
-/* About: Info */
-#about .info-section .info-content .content-subtitle {
+/*----------  bio ligthbox  ----------*/
+/* bio: Info */
+#bio .info-section .info-content .content-subtitle {
   color: #dc3545;
 }
 
-#about .info-section .info-content .content-follow li a:hover,
-#about .info-section .info-content .content-follow li a:focus {
+#bio .info-section .info-content .content-follow li a:hover,
+#bio .info-section .info-content .content-follow li a:focus {
   color: #dc3545;
 }
 
-/* About: Services */
-#about .services-section .single-service:hover {
+/* bio: Services */
+#bio .services-section .single-service:hover {
   border-bottom-color: #dc3545;
 }
 
-#about .services-section .single-service .service-icon {
+#bio .services-section .single-service .service-icon {
   color: #dc3545;
 }
 
-/* About: Testimonials */
-#about .testimonials-section .single-review .review-icon {
+/* bio: Testimonials */
+#bio .testimonials-section .single-review .review-icon {
   color: #dc3545;
 }
 
-/* About: Pricing */
-#about .pricing-section .single-plan .plan-icon {
+/* bio: Pricing */
+#bio .pricing-section .single-plan .plan-icon {
   color: #dc3545;
 }
 

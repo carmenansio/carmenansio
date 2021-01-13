@@ -1009,7 +1009,10 @@ hr {
 #bio .info-section .info-img img {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.18);
-  width: 430px;
+  -o-object-fit: cover;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 340px;
 }
 
 #bio .info-section .info-content .content-subtitle {
@@ -1088,7 +1091,7 @@ hr {
 @media (min-width: 992px) and (max-width: 1199.98px) {
   #bio .info-section .info-img img {
     -o-object-fit: cover;
-    height: 440px;
+    border-radius: 50%;
     object-fit: cover;
   }
 

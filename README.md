@@ -1,4 +1,5 @@
-![cosmic red cover image](https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover)
+# ![cosmic red header](https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover)
+
 
 - 🎨 UX Engineer @mango
 - 🔬 @GoogleDevExpert in Web Technologies

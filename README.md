@@ -8,3 +8,5 @@
 - 🧪 Fork my experiments on [Codepen](https://codepen.io/carmenansio)
 - 📫 Reach me on [Twitter](https://twitter.com/carmenansio)
 - 🌈 She/her
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmenansio&count_private=true&show_icons=true&theme=radical)

@@ -9,4 +9,6 @@
 - 📫 Reach me on [Twitter](https://twitter.com/carmenansio)
 - 🌈 She/her
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=carmenansio)](https://github.com/carmenansio/github-readme-twitter)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmenansio&count_private=true&show_icons=true&theme=radical)

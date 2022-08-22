@@ -1,4 +1,4 @@
-# ![cosmic red header](https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover)
+# ![cosmic red header](https://pbs.twimg.com/profile_banners/556708229/1661108685/1500x500)
 
 
 - 🎨 UX Engineer @CodelyTV

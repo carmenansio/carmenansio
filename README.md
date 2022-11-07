@@ -8,6 +8,7 @@
 - 🧪 Fork my experiments on [Codepen](https://codepen.io/carmenansio)
 - 📫 Reach me on [Twitter](https://twitter.com/carmenansio)
 - 🌈 She/her
+- 🪐 My resources on [Recursos Cosmicos](https://recursoscosmicos.com)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=carmenansio)](https://github.com/carmenansio/github-readme-twitter)
 

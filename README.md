@@ -1,7 +1,7 @@
 # ![cosmic red header](https://pbs.twimg.com/profile_banners/556708229/1661108685/1500x500)
 
 
-- 🎨 UX Engineer @CodelyTV
+- 🎨 UX Engineer
 - 🔬 @GoogleDevExpert in Web Technologies
 - 🥑 Community Advocate @figmadesign at @fof_barcelona
 - 💬 Ask me about CSS & SVG

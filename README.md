@@ -1,6 +1,6 @@
 # ![cosmic red header](https://pbs.twimg.com/profile_banners/556708229/1661108685/1500x500)
 
-https://api.daily.dev/devcards/9540491b17a244d28eedb609962b33ac.png?r=e7f
+<a href="https://app.daily.dev/carmenansio"><img src="https://api.daily.dev/devcards/9540491b17a244d28eedb609962b33ac.png?r=e7f" width="400" alt="Carmen Ansio's Dev Card"/></a>
 
 - 🎨 UX Engineer
 - 🔬 @GoogleDevExpert in Web Technologies

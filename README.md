@@ -1,5 +1,6 @@
 # ![cosmic red header](https://pbs.twimg.com/profile_banners/556708229/1661108685/1500x500)
 
+https://api.daily.dev/devcards/9540491b17a244d28eedb609962b33ac.png?r=e7f
 
 - 🎨 UX Engineer
 - 🔬 @GoogleDevExpert in Web Technologies

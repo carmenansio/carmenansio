@@ -1,7 +1,5 @@
 # ![cosmic red header](https://pbs.twimg.com/profile_banners/556708229/1661108685/1500x500)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmenansio&count_private=true&show_icons=true&theme=radical)
-
 - 🎨 UX Engineer
 - 🔬 @GoogleDevExpert in Web Technologies
 - 🥑 Community Advocate @figmadesign

@@ -6,5 +6,3 @@
 - 🧪 Fork my experiments on [Codepen](https://codepen.io/carmenansio)
 - 📫 Reach me on [Twitter](https://twitter.com/carmenansio)
 - 🪐 My resources on [Recursos Cosmicos](https://recursoscosmicos.com)
-
-<a href="https://app.daily.dev/carmenansio"><img src="https://api.daily.dev/devcards/9540491b17a244d28eedb609962b33ac.png?r=e7f" width="400" alt="Carmen Ansio's Dev Card"/></a>

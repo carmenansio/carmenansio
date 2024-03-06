@@ -1,4 +1,4 @@
-# ![cosmic red header](https://twitter.com/carmenansio/header_photo)
+# ![cosmic red header](https://pbs.twimg.com/profile_banners/556708229/1703020799/1500x500)
 
 - 🎨 UX Engineer
 - 🔬 @GoogleDevExpert in Web Technologies

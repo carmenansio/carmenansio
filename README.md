@@ -1,4 +1,4 @@
-# ![cosmic red header](https://pbs.twimg.com/profile_banners/556708229/1723391203/1500x500)
+<img width="1709" alt="image" src="https://github.com/user-attachments/assets/7dd5280e-1bff-4cc4-a281-5e18f95f6c8b">
 
 - Design Engineer working on Motion
 - Google Developer Expert in Web Technologies

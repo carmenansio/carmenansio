@@ -5,4 +5,4 @@
 - Microsoft MVP in Web Technologies
 - Fork my experiments on [Codepen](https://codepen.io/carmenansio)
 - Reach me on [Twitter](https://twitter.com/carmenansio)
-- My resources on [Recursos Cosmicos](https://recursoscosmicos.com)
+- Curated resources on [Recursos Cosmicos](https://recursoscosmicos.com)

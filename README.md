@@ -7,4 +7,4 @@ I'm **Carmen Ansio**, a Design Engineer passionate about **Design Systems** and 
 ✨ I share creative experiments on [CodePen](https://codepen.io/carmenansio)  
 💬 You can find me on [Twitter](https://twitter.com/carmenansio) and [LinkedIn](https://www.linkedin.com/in/carmenansio/)  
 
-_Exploring where design meets code._  
+_Code is hands down the best way to build visual motion experiences for the web._  
